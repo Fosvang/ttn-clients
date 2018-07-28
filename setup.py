@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='ttn-clients',
-    version='20180531.0',
+    version='20180728.0',
     description='The Things Network API clients',
     keywords='the things network api clients',
     url='https://github.com/joosthoeks/ttn-clients',
